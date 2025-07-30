@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Me chamo Gabriel Corrêa</h1>
+<h1 align="center">Gabriel Corrêa</h1>
 
 <p align="center">
   Desenvolvedor em formação | Estudante de Análise e Desenvolvimento de Sistemas<br>
