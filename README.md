@@ -11,7 +11,7 @@
 
 - 📍 São Paulo, Brasil  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
-- 👨‍🏫 Estudando **HTML, CSS, JavaScript, Python, Node.js, Express.js e FastAPI**  
+- 👨‍🏫 Estudando **JavaScript, Python, Node.js, Express.js, FastAPI, SQL e Docker**  
 - 🔁 Transição de carreira do mundo das ruas para o mundo do código  
 - 🎯 Objetivo: atuar como desenvolvedor **Full Stack** no mercado de tecnologia  
 
