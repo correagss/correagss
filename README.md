@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Corrêa</h1>
 
 <p align="center">
-  Desenvolvedor em formação | Estudante de Análise e Desenvolvimento de Sistemas<br>
+  Desenvolvedor Web | Estudante de Análise e Desenvolvimento de Sistemas<br>
   Apaixonado por tecnologia, programação e aprendizado constante 🚀
 </p>
 
