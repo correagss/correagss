@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor Web<br>
-  Apaixonado por tecnologia, programação e aprendizado constante 🚀
+  Apaixonado por tecnologia, programação e matemática 🚀
 </p>
 
 ---
