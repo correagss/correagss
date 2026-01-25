@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor Web<br>
-  Apaixonado por tecnologia, programação e matemática 🚀
+  Profissional de TI com atuação em desenvolvimento de sistemas e paixão por tecnologia, programação e matemática 🚀
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ### 👨‍💻 Sobre mim
 
 - 📍 São Paulo, Brasil  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
-- 👨‍🏫 Estudando **HTML, CSS, JavaScript, Python, Node.js, Express.js, FastAPI, SQL e Docker**  
-- 🔁 Transição de carreira do mundo das ruas para o mundo do código  
-- 🎯 Objetivo: atuar como desenvolvedor **Full Stack** no mercado de tecnologia  
+- 🎓 **Formado na área de Tecnologia da Informação**  
+- 💼 Atuação profissional como **Desenvolvedor Web**, participando do desenvolvimento, manutenção e evolução de sistemas  
+- 👨‍🏫 Experiência com **HTML, CSS, JavaScript, Python, Node.js, Express.js, FastAPI, SQL e Docker**  
+- 🎯 Foco em desenvolvimento **Full Stack**, com atenção à qualidade do código, performance e boas práticas  
 
 ---
 
