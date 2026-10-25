@@ -1,19 +1,24 @@
-<h1 align="center">Gabriel Corrêa</h1>
 
-<p align="center">
-  Desenvolvedor Web<br>
-  Profissional de TI com atuação em desenvolvimento de sistemas e paixão por tecnologia, programação e matemática 🚀
+<h1>Gabriel Corrêa</h1>
+
+<h3>Desenvolvedor Web | Analista de SEO Jr.</h3>
+
+<p>
+  Profissional de Tecnologia da Informação com experiência em
+  <strong>Desenvolvimento Web e Search Engine Optimization (SEO)</strong>,
+  atuando na otimização de sites, análise de performance e
+  desenvolvimento de soluções tecnológicas.
 </p>
 
----
+<h3>👨‍💻 Sobre mim</h3>
 
-### 👨‍💻 Sobre mim
-
-- 📍 São Paulo, Brasil  
-- 🎓 **Formado na área de Tecnologia da Informação**  
-- 💼 Atuação profissional como **Desenvolvedor Web**, participando do desenvolvimento, manutenção e evolução de sistemas  
-- 👨‍🏫 Experiência com **HTML, CSS, JavaScript, Python, Node.js, Express.js, FastAPI, SQL e Docker**  
-- 🎯 Foco em desenvolvimento **Full Stack**, com atenção à qualidade do código, performance e boas práticas  
+<ul>
+  <li>📍 São Paulo, Brasil</li>
+  <li>🎓 <strong>Formado em Redes de Computadores</strong> e graduando em <strong>Análise e Desenvolvimento de Sistemas</strong></li>
+  <li>💼 Atuação profissional como <strong>Analista de SEO Jr.</strong>, com experiência em SEO Técnico, On-Page e análise de performance orgânica</li>
+  <li>💻 Conhecimentos em <strong>Desenvolvimento Web</strong>, utilizando HTML, CSS, JavaScript, Python, Node.js, Express.js e FastAPI</li>
+  <li>🗄️ Experiência com <strong>SQL, Docker, Git e GitHub</strong></li>
+</ul>
 
 ---
 
