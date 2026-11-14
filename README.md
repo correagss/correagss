@@ -1,55 +1,36 @@
-
-<h1>Gabriel Corrêa</h1>
-
-<h3>Desenvolvedor Web | Analista de SEO Jr.</h3>
-
-<p>
-  Profissional de Tecnologia da Informação com experiência em
-  <strong>Desenvolvimento Web e Search Engine Optimization (SEO)</strong>,
-  atuando na otimização de sites, análise de performance e
-  desenvolvimento de soluções tecnológicas.
+<!-- Banner a inserir: ./banner.jpg -->
+<h1 align="center">Gabriel Corrêa</h1>
+<p align="center">Analista de SEO Jr. · Desenvolvimento Web</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/gabrielcorreasv"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"></a>
+<a href="mailto:gabrielcorreaa@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge"></a>
+<a href="https://www.instagram.com/correagss"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<h3>👨‍💻 Sobre mim</h3>
+<h2 align="center">Sobre mim</h2>
 
-<ul>
-  <li>📍 São Paulo, Brasil</li>
-  <li>🎓 <strong>Formado em Redes de Computadores</strong> e graduando em <strong>Análise e Desenvolvimento de Sistemas</strong></li>
-  <li>💼 Atuação profissional como <strong>Analista de SEO Jr.</strong>, com experiência em SEO Técnico, On-Page e análise de performance orgânica</li>
-  <li>💻 Conhecimentos em <strong>Desenvolvimento Web</strong>, utilizando HTML, CSS, JavaScript, Python, Node.js, Express.js e FastAPI</li>
-  <li>🗄️ Experiência com <strong>SQL, Docker, Git e GitHub</strong></li>
-</ul>
+Sou analista de SEO júnior em São Paulo. Trabalho com auditoria técnica, otimização on-page e análise de desempenho orgânico com Google Search Console, Screaming Frog e Semrush. Sou formado em Redes de Computadores e curso Análise e Desenvolvimento de Sistemas.
 
----
+<h2 align="center">Tecnologias</h2>
 
-### 🛠️ Tecnologias dominadas
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h2 align="center">Estatísticas do GitHub</h2>
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=correagss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correagss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-### 📫 Contato
-
-- 📧 E-mail: gabrielcorreaa@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielcorreasv)  
-- 📷 [Instagram](https://www.instagram.com/correagss)
-
----
+<p align="center">
+<img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=correagss&amp;show_icons=true&amp;theme=dark&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=eeeeee&amp;icon_color=cccccc&amp;border_color=444444">
+<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=correagss&amp;background=000000&amp;border=444444&amp;stroke=cccccc&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=eeeeee&amp;sideLabels=eeeeee&amp;dates=aaaaaa">
+<img alt="Gráfico de contribuições recentes" src="https://github-readme-activity-graph.vercel.app/graph?username=correagss&amp;bg_color=000000&amp;color=eeeeee&amp;line=ffffff&amp;point=aaaaaa&amp;area=true&amp;area_color=777777&amp;border_color=444444&amp;custom_title=Contribui%C3%A7%C3%B5es%20recentes">
+</p>
