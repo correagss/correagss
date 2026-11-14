@@ -1,5 +1,10 @@
-<img width="736" height="414" alt="download (12)" src="https://github.com/user-attachments/assets/d821811f-7d8d-4632-a0e2-97f85b01d1b4" />
-
+<p align="center">
+  <img
+    width="100%"
+    alt="Banner em preto e branco"
+    src="https://github.com/user-attachments/assets/55585fe6-0ac0-4111-8731-898708a8a689"
+  />
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/gabrielcorreasv"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"></a>
 <a href="mailto:gabrielcorreaa@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge"></a>
