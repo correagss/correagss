@@ -30,7 +30,11 @@ Sou analista de SEO júnior em São Paulo. Trabalho com auditoria técnica, otim
 <h2 align="center">Estatísticas do GitHub</h2>
 
 <p align="center">
-<img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=correagss&amp;show_icons=true&amp;theme=dark&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=eeeeee&amp;icon_color=cccccc&amp;border_color=444444">
-<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=correagss&amp;background=000000&amp;border=444444&amp;stroke=cccccc&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=eeeeee&amp;sideLabels=eeeeee&amp;dates=aaaaaa">
-<img alt="Gráfico de contribuições recentes" src="https://github-readme-activity-graph.vercel.app/graph?username=correagss&amp;bg_color=000000&amp;color=eeeeee&amp;line=ffffff&amp;point=aaaaaa&amp;area=true&amp;area_color=777777&amp;border_color=444444&amp;custom_title=Contribui%C3%A7%C3%B5es%20recentes">
+<img width="47%" alt="Estatísticas do GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=correagss&amp;show_icons=true&amp;theme=dark&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=eeeeee&amp;icon_color=cccccc&amp;border_color=444444">
+<img width="51%" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=correagss&amp;background=000000&amp;border=444444&amp;stroke=cccccc&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=eeeeee&amp;sideLabels=eeeeee&amp;dates=aaaaaa">
+</p>
+
+<p align="center"><strong>Calendário de contribuições</strong></p>
+<p align="center">
+<img width="98%" alt="Calendário de contribuições do GitHub" src="https://ghchart.rshah.org/777777/correagss">
 </p>
