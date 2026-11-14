@@ -1,7 +1,6 @@
 <h2 align="center">Sobre mim</h2>
 
-Sou desenvolvedor web com foco em **PHP e WordPress**, com interesse em desenvolvimento e personalização de sites. Também trabalho com **SEO técnico e on-page**, incluindo auditorias e análise de desempenho orgânico. Sou formado em Redes de Computadores e curso Análise e Desenvolvimento de Sistemas.
-
+Sou desenvolvedor web com foco em **PHP e WordPress**, com foco desenvolvimento e personalização de sites. Também trabalho com **SEO técnico e on-page**, incluindo auditorias e análise de desempenho orgânico.
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
