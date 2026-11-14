@@ -4,6 +4,8 @@ Sou desenvolvedor web com foco em **PHP e WordPress**, com foco desenvolvimento 
 <h2 align="center">Tecnologias</h2>
 
 <p align="center">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white">
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
