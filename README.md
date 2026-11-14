@@ -1,17 +1,3 @@
-<p align="center">
-  <img
-    width="100%"
-    alt="Banner em preto e branco"
-    src="https://github.com/user-attachments/assets/55585fe6-0ac0-4111-8731-898708a8a689"
-  />
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/gabrielcorreasv"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"></a>
-<a href="mailto:gabrielcorreaa@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge"></a>
-<a href="https://www.instagram.com/correagss"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
-<h2 align="center">Sobre mim</h2>
 
 Sou analista de SEO júnior em São Paulo. Trabalho com auditoria técnica, otimização on-page e análise de desempenho orgânico com Google Search Console, Screaming Frog e Semrush. Sou formado em Redes de Computadores e curso Análise e Desenvolvimento de Sistemas.
 
